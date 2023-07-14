@@ -10,9 +10,9 @@ By delving into the data from my listening habits, I aim to uncover insights and
 ## Technology
 **Data** - My Spotify streaming history data with over 10450 raws from July 2022 till June 2023
 
-**Data Export** - Pandas 
+**Data Cleaning & Export** - Pandas 
 
-**Data Cleaning & Analysis**- MySQL Workbench
+**Data Analysis**- MySQL Workbench
 
 **Data Visualization**- PowerBI
 
