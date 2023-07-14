@@ -1,6 +1,7 @@
 # Spotify-History-Analysis
 
-![image](https://github.com/cheredarykk/Spotify-History-Analysis/assets/39804524/d1db22f8-66f8-43bf-8fc5-16b51e6cb980)
+
+![image](https://github.com/cheredarykk/Spotify-History-Analysis/assets/39804524/80920e3e-9f28-43be-ba39-cf66966ad5e2)
 
 
 By delving into the data from my listening habits, I aim to uncover insights and patterns regarding my music preferences, favourite artists, most frequently played tracks, and other relevant information. 
