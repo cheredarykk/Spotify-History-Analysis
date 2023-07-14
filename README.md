@@ -15,7 +15,7 @@ By delving into the data from my listening habits, I aim to uncover insights and
 
 **Data Visualization**- PowerBI
 
-##Summary of Findings:
+## Summary of Findings:
 
 During the period from July 2022 to June 2023, a thorough analysis of my music streaming habits uncovered the following insights:
 
